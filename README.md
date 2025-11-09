@@ -48,4 +48,4 @@ I’m always excited to contribute to **open-source** projects. If you're workin
 
 ## 📫 How to reach me
 Send me an email: [codazzi.nicholas03@gmail.com](mailto:codazzi.nicholas03@gmail.com)  
-Connect with me on **[LinkedIn](https://linkedin.com/nicholas-codazzi)**!  
+Connect with me on **[LinkedIn](https://linkedin.com/in/nicholas-codazzi)**!  
