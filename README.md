@@ -40,7 +40,6 @@ I’m always excited to contribute to **open-source** projects. If you're workin
 
 ---
 
-📊 **GitHub Stats**
 ![n-codazzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n-codazzi&count_private=true&show_icons=true&theme=transparent)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n-codazzi&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n-codazzi&theme=transparent&layout=compact)
@@ -48,5 +47,5 @@ I’m always excited to contribute to **open-source** projects. If you're workin
 ---
 
 ## 📫 How to reach me
-Send me an email: [codazzi.nicholas03@gmail.com](mailto:codazzi.nicholas03@gmail.com)
+Send me an email: [codazzi.nicholas03@gmail.com](mailto:codazzi.nicholas03@gmail.com)  
 Connect with me on **[LinkedIn](https://linkedin.com/nicholas-codazzi)**!  
