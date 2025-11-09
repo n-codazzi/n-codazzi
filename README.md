@@ -41,12 +41,8 @@ I’m always excited to contribute to **open-source** projects. If you're workin
 ---
 
 📊 **GitHub Stats**
-https://github-readme-stats.vercel.app/api?username=n-codazzi&count_private=true&show_icons=true&theme=transparent
+[Github Stats](https://github-readme-stats.vercel.app/api?username=n-codazzi&count_private=true&show_icons=true&theme=transparent)
 
 ---
 
-Connect with me on **[LinkedIn](https://linkedln.com/nicholas-codazzi)**!  
-
----
-
-I believe in “Cats > Dogs” and "Code > Sleep."
+Connect with me on **[LinkedIn](https://linkedin.com/nicholas-codazzi)**!  
